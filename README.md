@@ -39,6 +39,7 @@ This is a basic chat application, similar in concept to WhatsApp, built using No
 * Node.js
 * Express.js
 * Socket.io
+* Bootstrap 5 (for styling)
 
 ## What I Learned
 
